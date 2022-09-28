@@ -2,15 +2,14 @@
 
 This report was done as a course project by *Mahesh Nanavare* during '*Microsoft Power BI Desktop for Business Intelligence*' course on Udemy.
 
-All the source CSV files were made available in the course itself. Thanks to *Chris Dutton*, instructor of the course for allowing the publication of the report.
-
 ## About the report :-
 
-**Role** : Lead analyst
+**Aim** : design and execute an end to end business intelligence solution from scratch to track KPIs (sales, revenue, profit, returns), compare regional 
+performance, analyze product-level trends and forecasts, and identify high-value customers.
 
 **Company** : Adventure Work Cycles (a global manufacturing company)
 
-**Aim** : design and execute an end to end business intelligence solution from scratch
+**Role** : Lead analyst
 
 ## Tasks Performed through the entire business intelligence workflow: :-
 
@@ -28,3 +27,4 @@ All the source CSV files were made available in the course itself. Thanks to *Ch
 ## Data View :![Data View](https://user-images.githubusercontent.com/98680598/177624082-e42b7dd6-3ab8-4a2d-b735-558b7f8e78af.jpg)
 ## Model View :![Model View](https://user-images.githubusercontent.com/98680598/177624316-af79aea5-dd1e-4e2b-a9eb-fff3783bf7fb.jpg)
 
+All the source CSV files (containing information about transactions, returns, products, customers and territories) were made available in the Udemy course itself. Thanks to *Chris Dutton*, instructor of the course for allowing the publication of the report.
